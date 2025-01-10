@@ -1,0 +1,149 @@
+{
+  "cities": [
+    {
+      "cityName": "Dhaka",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-01-12T10:00:00.000Z",
+      "notes": "The bustling capital of Bangladesh, home to historic landmarks and vibrant markets.",
+      "position": {
+        "lat": 23.8103,
+        "lng": 90.4125
+      },
+      "tourist_spot": "Ahsan Manzil, Lalbagh Fort"
+    },
+    {
+      "cityName": "Chittagong",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-02-22T15:00:00.000Z",
+      "notes": "A coastal city with beautiful beaches and natural landscapes.",
+      "position": {
+        "lat": 22.3569,
+        "lng": 91.7832
+      },
+      "tourist_spot": "Patenga Beach, Foy's Lake"
+    },
+    {
+      "cityName": "Sylhet",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-03-05T11:00:00.000Z",
+      "notes": "A city surrounded by lush tea gardens and rolling hills.",
+      "position": {
+        "lat": 24.8949,
+        "lng": 91.8687
+      },
+      "tourist_spot": "Ratargul Swamp Forest, Jaflong"
+    },
+    {
+      "cityName": "Rajshahi",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-04-17T09:30:00.000Z",
+      "notes": "Known for its historical landmarks and the silk industry.",
+      "position": {
+        "lat": 24.3745,
+        "lng": 88.6032
+      },
+      "tourist_spot": "Puthia Temple Complex, Bagha Mosque"
+    },
+    {
+      "cityName": "Khulna",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2025-05-01T13:45:00.000Z",
+      "notes": "A gateway to the Sundarbans mangrove forest.",
+      "position": {
+        "lat": 22.8456,
+        "lng": 89.5404
+      },
+      "tourist_spot": "Sundarbans, Koyra"
+    },
+    {
+      "cityName": "Kolkata",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-02-20T12:00:00.000Z",
+      "notes": "A vibrant city with a rich cultural heritage and colonial architecture.",
+      "position": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      },
+      "tourist_spot": "Victoria Memorial, Howrah Bridge"
+    },
+    {
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-03-10T14:15:00.000Z",
+      "notes": "The Pink City, famous for its forts, palaces, and temples.",
+      "position": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      },
+      "tourist_spot": "Amber Fort, Hawa Mahal"
+    },
+    {
+      "cityName": "Udaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-05T17:00:00.000Z",
+      "notes": "Known for its beautiful lakes and palaces.",
+      "position": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      },
+      "tourist_spot": "Lake Pichola, City Palace"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-06-15T18:30:00.000Z",
+      "notes": "Spain's capital, known for its royal palaces and vibrant culture.",
+      "position": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "tourist_spot": "Royal Palace, Retiro Park"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-07-20T13:00:00.000Z",
+      "notes": "A city of history, art, and modern architecture.",
+      "position": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "tourist_spot": "Brandenburg Gate, Berlin Wall Memorial"
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    }
+  ]
+}
