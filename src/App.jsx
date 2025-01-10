@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Product from "./pages/Product";
 import Pricing from "./pages/Pricing";
 import Homepage from "./pages/Homepage";
+import AppLayout from "./pages/AppLayout";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Homepage />} />
+          <Route path="app" element={<AppLayout />} />
           <Route path="pricing" element={<Pricing />} />
           <Route path="product" element={<Product />} />
           <Route path="*" element={<h1>Not Found</h1>} />
