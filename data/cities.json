@@ -27,19 +27,6 @@
       "tourist_spot": "Patenga Beach, Foy's Lake"
     },
     {
-      "cityName": "Sylhet",
-      "country": "Bangladesh",
-      "emoji": "🇧🇩",
-      "date": "2025-03-05T11:00:00.000Z",
-      "notes": "A city surrounded by lush tea gardens and rolling hills.",
-      "position": {
-        "lat": 24.8949,
-        "lng": 91.8687
-      },
-      "id": "87654322",
-      "tourist_spot": "Ratargul Swamp Forest, Jaflong"
-    },
-    {
       "cityName": "Rajshahi",
       "country": "Bangladesh",
       "emoji": "🇧🇩",
@@ -105,19 +92,6 @@
       "tourist_spot": "Lake Pichola, City Palace"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-06-15T18:30:00.000Z",
-      "notes": "Spain's capital, known for its royal palaces and vibrant culture.",
-      "position": {
-        "lat": 40.4168,
-        "lng": -3.7038
-      },
-      "id": "87675321",
-      "tourist_spot": "Royal Palace, Retiro Park"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -176,42 +150,6 @@
       "position": {
         "lat": "26.87690899274027",
         "lng": "75.78334808349611"
-      }
-    },
-    {
-      "id": "20a8",
-      "cityName": "Jaipur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-02-07T09:49:09.409Z",
-      "notes": "v",
-      "position": {
-        "lat": "26.88961711212892",
-        "lng": "75.77974319458008"
-      }
-    },
-    {
-      "id": "b447",
-      "cityName": "Jaipur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-02-07T09:50:20.992Z",
-      "notes": "aaaaz",
-      "position": {
-        "lat": "26.91640665583696",
-        "lng": "75.76601028442384"
-      }
-    },
-    {
-      "id": "bb8b",
-      "cityName": "Jaipur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-02-07T09:55:36.488Z",
-      "notes": "ndhd",
-      "position": {
-        "lat": "26.91135539958341",
-        "lng": "75.75725555419923"
       }
     }
   ]
