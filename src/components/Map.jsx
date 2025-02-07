@@ -10,9 +10,9 @@ import {
 } from "react-leaflet";
 import { useEffect, useState } from "react";
 import { useCities } from "../contexts/CitiesContext";
-import { useSearchParams } from "react-router-dom";
 import { useGeolocation } from "../hooks/useGeolocation";
 import Button from "./Button";
+import { useUrlPosition } from "../hooks/useUrlPosition";
 // import { use } from "react"
 
 function Map() {
@@ -28,9 +28,7 @@ function Map() {
 
     getPosition,
   } = useGeolocation();
-
-  const mapLat = searchParams.get("lat");
-  const mapLng = searchParams.get("lng");
+  const [mapLat, mapLng] = useUrlPosition();
   useEffect(() => {
     if (mapLat && mapLng) {
       setMapPosition([mapLat, mapLng]);
@@ -51,9 +49,6 @@ function Map() {
       )}
 
       <MapContainer
-        onClick={() => {
-          setSearchParams;
-        }}
         center={mapPostion}
         zoom={13}
         scrollWheelZoom={true}
