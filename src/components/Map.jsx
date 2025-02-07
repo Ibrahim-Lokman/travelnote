@@ -21,7 +21,7 @@ function Map() {
     cities[1].position.lat,
     cities[1].position.lng,
   ]);
-  const [searchParams, setSearchParams] = useSearchParams();
+
   const {
     isLoading: isLoadingPosition,
     position: geoLocationPosition,
